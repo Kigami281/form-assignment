@@ -50,4 +50,8 @@ The color scheme is chosen to be clean and user-friendly:
 ### Browser Compatibility
 - Designed primarily for modern browsers such as Chrome, Firefox, Edge, and Avast Secure Browser.
 - The CSS features used are widely supported; however, some older browsers may have limited support for certain selectors or input types.
+![Form 1](form1.png)
+![Form 2](form2.png)
+![Form 3](form3.png)
+![Form 4](form4.png)
 
